@@ -1,0 +1,11 @@
+head {
+    background-color: #49637a;
+    color: #ede8d0;
+    font: inherit;
+}
+
+body {
+    background-color: #cccecf;
+    color: #49637a;
+    font-family: system-ui, Roboto, Helvetica, Arial, sans-serif;
+}
